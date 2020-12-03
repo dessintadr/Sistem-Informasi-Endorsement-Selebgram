@@ -1,0 +1,38 @@
+body{
+	font-family:;
+	background: #eedbdb;
+}
+.login{
+	padding: 7em;
+	margin : 6em auto;
+	width: 20em;
+	height: 18em;
+	background: #e3c9c9 ;
+	border-radius: 3px;
+}
+input{
+	border-radius: 5px;
+	background: #efefef;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.tabelsearch {
+  border-collapse: collapse;
+}
+h3{
+  background-color: ;
+  color: 
+}
+.edit{
+ width: 600px;
+ height: 20px;
+  background: #e3c9c9 ;
+  margin: 30px auto;
+  padding: 15px 15px;
+  border-radius: 0px;
+  border-width: 0px;
+}
+.font {
+  font-weight: bold;
+}
